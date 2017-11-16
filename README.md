@@ -1,6 +1,6 @@
 # UCFIEEEFoodComputer
 Main software repository for the Food Computer
 
-Revision v1.0
+Revision v1.1
 
-IEEE 2017 lkj hello
+UCF IEEE 2017

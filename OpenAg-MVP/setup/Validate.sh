@@ -131,14 +131,14 @@ else
     printf "${RED}$cmd not working or not installed${NC}\n"
 fi
 
-cmd=$main_dir/webcam.sh
-bash $cmd &> /dev/null
-if [ $? = 0 ]
-then
-    printf "Webcam OK\n"
-else
-    printf "${RED}$cmd not working or not installed${NC}\n"
-fi
+#cmd=$main_dir/webcam.sh
+#bash $cmd &> /dev/null
+#if [ $? = 0 ]
+#then
+#    printf "Webcam OK\n"
+#else
+#    printf "${RED}$cmd not working or not installed${NC}\n"
+#fi
 
 printf "\n---Building website, if you got this far, there is some data---\n"
 
